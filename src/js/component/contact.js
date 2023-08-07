@@ -19,7 +19,7 @@ export const Contact = () => {
   return (
     <div>
      <div className = "d-flex justify-content-end me-3"> 
-      <Link to="/home">
+      <Link to="/addContact">
       <button type="button" className="btn btn-success my-3">
       Add new Contact
       </button>

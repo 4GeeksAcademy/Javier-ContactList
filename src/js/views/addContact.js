@@ -3,7 +3,7 @@ import { Context } from "../store/appContext";
 import { Link,useParams } from "react-router-dom";
 import "../../styles/home.css";
 
-export const Home = () => {
+export const AddContact = () => {
 	const {store,actions} = useContext(Context)
 	const params = useParams();
 	
