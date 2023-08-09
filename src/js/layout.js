@@ -6,9 +6,10 @@ import { AddContact } from "./views/addContact";
 import { Demo } from "./views/demo";
 import { Single } from "./views/single";
 import injectContext from "./store/appContext";
+import { Contact } from "./views/contact";
 
 import { Navbar } from "./component/navbar";
-import { Contact } from "./component/contact";
+
 import { Footer } from "./component/footer";
 
 //create your first component
